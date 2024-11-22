@@ -1,0 +1,21 @@
+h1
+{
+    color: rgba(134, 49, 49, 0.637);
+    font-family: fantasy;
+    font-weight: 300;
+}
+
+body
+{
+    background-color: aquamarine;
+}
+
+#carte
+{
+
+    width: 1200px;
+    margin: 0 auto;
+    background-color: aqua;
+    text-align: center;
+    align-content: center;
+}
